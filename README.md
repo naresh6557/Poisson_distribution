@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EXP2: Fitting Poisson  distribution
 # NAME : NARESH KUMAR R
 # REG.NO : 212224040213
 # Aim : 
@@ -71,4 +71,6 @@ else:
 
 # Result :
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+
+# Link :
 https://github.com/naresh6557/Poisson_distribution
